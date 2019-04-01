@@ -1,4 +1,4 @@
-require_relative '../grocer.rb'
+require_relative 'grocer'
 
 def items
 	[
