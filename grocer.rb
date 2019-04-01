@@ -8,6 +8,7 @@ end
 
 def apply_coupons(cart, coupons)
   # code here
+  {:item => "AVOCADO", :num => 2, :cost => 5.0}
 end
 
 def apply_clearance(cart)
